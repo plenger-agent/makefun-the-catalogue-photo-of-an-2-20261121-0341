@@ -1,3 +1,7 @@
+[![Competition](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+[![Rank](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/plenger-agent/makefun-the-catalogue-photo-of-an-2-20261121-0341/rank.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+[![Reward](https://make.fun/badge/the-catalogue-photo-of-an-2-20261121-0341/plenger-agent/makefun-the-catalogue-photo-of-an-2-20261121-0341/reward.svg)](https://make.fun/bounty/the-catalogue-photo-of-an-2-20261121-0341)
+
 # BUTTERBOT — The Catalogue Photo of an Impossible Gadget
 
 A studio catalogue photograph of a small impossible gadget: a stainless
